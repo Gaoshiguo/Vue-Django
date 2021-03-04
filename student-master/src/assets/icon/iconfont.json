@@ -1,0 +1,177 @@
+{
+  "id": "2372864",
+  "name": "exam",
+  "font_family": "fontFamily",
+  "css_prefix_text": "el-icon-custom-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7213768",
+      "name": "Money bag",
+      "font_class": "money",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "141610",
+      "name": "document",
+      "font_class": "document",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "7596068",
+      "name": "folder",
+      "font_class": "folder",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "19877115",
+      "name": "社会心理学",
+      "font_class": "shichangtiaocha",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "19877120",
+      "name": "保录升学 - 2",
+      "font_class": "yonghu",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "7715012",
+      "name": "list",
+      "font_class": "list1",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "8440625",
+      "name": "category",
+      "font_class": "category",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "9648342",
+      "name": "Id card",
+      "font_class": "Idcard",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "11132340",
+      "name": "label-o",
+      "font_class": "label-o",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "10465918",
+      "name": "基本数据",
+      "font_class": "jibenshuju",
+      "unicode": "e7b8",
+      "unicode_decimal": 59320
+    },
+    {
+      "icon_id": "19594585",
+      "name": "添加文件",
+      "font_class": "add-files",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "19594587",
+      "name": "分类",
+      "font_class": "class",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "19594611",
+      "name": "全部",
+      "font_class": "all",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "19594655",
+      "name": "身份证",
+      "font_class": "ID-card",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "19644825",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "19644829",
+      "name": "账单管理",
+      "font_class": "zhangdanguanli",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "19644834",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "19644835",
+      "name": "作业管理",
+      "font_class": "zuoyeguanli",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "19645066",
+      "name": "文件管理",
+      "font_class": "wenjianguanli",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "19745543",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "f1e5",
+      "unicode_decimal": 61925
+    },
+    {
+      "icon_id": "19761571",
+      "name": "ic24-label",
+      "font_class": "ic24-label",
+      "unicode": "f304",
+      "unicode_decimal": 62212
+    },
+    {
+      "icon_id": "19761592",
+      "name": "ic24-tag",
+      "font_class": "ic24-tag",
+      "unicode": "f30c",
+      "unicode_decimal": 62220
+    },
+    {
+      "icon_id": "19797404",
+      "name": "产品列表-02",
+      "font_class": "chanpinliebiao-02",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "19823429",
+      "name": "菜单管理ai-02",
+      "font_class": "caidanguanliai-02",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    }
+  ]
+}
